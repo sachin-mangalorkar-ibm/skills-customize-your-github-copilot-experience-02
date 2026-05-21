@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithmic-problem-solving",
+      "title": "Algorithmic Problem Solving with Lists and Dictionaries",
+      "description": "Practice frequency counting, duplicate detection, and selection logic with Python lists and dictionaries",
+      "path": "assignments/algorithmic-problem-solving",
+      "dueDate": "2026-05-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
